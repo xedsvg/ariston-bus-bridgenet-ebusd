@@ -2,7 +2,7 @@
 *r,broadcast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 *b,broadcast,,,,FE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 *w,broadcast,,,,FE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-w,,queryexistence,Inquiry of existence,,FE,07FE,,,,,,,,,,,,,,,,,,,,,,,,,,,
+w,,queryexistence,Inquiry of existence,,FE,07FE,,,,,,,,,,,,,,,,,,,,,,,,,
 
 *w,boiler,,,7f,fe,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 w,boiler,winter_mode,Winter mode,,,,0120,winter_mode,s,ULR,17769216=on;992000=off,,,,,,,,,,,,,,,,,,,,,,,,
